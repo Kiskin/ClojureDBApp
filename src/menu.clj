@@ -24,7 +24,7 @@
 
 
 (defn enterQuery 
-  "This fucntion takes as input a enter number and determines the curresponding function to call"
+  "This fucntion takes as input an integer and determines the curresponding function to call"
   []
   (println" ")
   
